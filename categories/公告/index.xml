@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>公告 on 西行妖</title>
+    <link>https://my.toho.red/categories/%E5%85%AC%E5%91%8A/</link>
+    <description>Recent content in 公告 on 西行妖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Jul 2022 15:48:00 +0000</lastBuildDate><atom:link href="https://my.toho.red/categories/%E5%85%AC%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>对于本站消失的回应</title>
+      <link>https://my.toho.red/posts/82/</link>
+      <pubDate>Fri, 08 Jul 2022 15:48:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/82/</guid>
+      <description>太久没上来看了，我甚至注意不到网站突然无法访问了。简单排查了下，发现是白嫖的azure主机由于虚拟信用卡注销而停机，所有搭建在上面的网站统统</description>
+    </item>
+    
+    <item>
+      <title>本站打算做出的一些改变&amp;amp;我对网左/键政的看法</title>
+      <link>https://my.toho.red/posts/16/</link>
+      <pubDate>Thu, 10 Feb 2022 21:35:44 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/16/</guid>
+      <description>本站自从回归以来，相信有不少并不存在的关注本站的网友已经发现了一个问题：本站已经很久没有更新了。当然，这并不是因为我咕了实际上就是，而是因为</description>
+    </item>
+    
+    <item>
+      <title>友情链接</title>
+      <link>https://my.toho.red/links/</link>
+      <pubDate>Sun, 19 Dec 2021 11:47:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/links/</guid>
+      <description>2023.8.30更新：还是没有找到比较好的友情链接解决方案，只能先这么放着了，以后没准就有了。 关于本站： 名称：西行妖 描述：人生五十年，如梦</description>
+    </item>
+    
+    <item>
+      <title>关于本站数据丢失&amp;amp;抢救</title>
+      <link>https://my.toho.red/posts/10/</link>
+      <pubDate>Sun, 19 Dec 2021 11:42:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/10/</guid>
+      <description>今天早上时，正愁没事干，想上来看看访问量时，突然发现本站503了，看报错信息是数据库连不上。想着可能是便宜主机数据库日常爆炸，就自行去后台看</description>
+    </item>
+    
+    <item>
+      <title>网站更新&amp;amp;迟来的4月总结</title>
+      <link>https://my.toho.red/posts/3/</link>
+      <pubDate>Mon, 10 May 2021 11:11:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/3/</guid>
+      <description>话不多说，先说重点吧： 由于考虑到以后备案时没法用根域名挂带评论功能的博客（不知道是不是真的，不过已经有人中招了），而又因为我比较喜欢这个新的</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>thinkpad on 西行妖</title>
+    <link>https://my.toho.red/tags/thinkpad/</link>
+    <description>Recent content in thinkpad on 西行妖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Jun 2023 22:28:00 +0000</lastBuildDate><atom:link href="https://my.toho.red/tags/thinkpad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chromebook刷bios解除企业锁折腾记录</title>
+      <link>https://my.toho.red/posts/123/</link>
+      <pubDate>Tue, 06 Jun 2023 22:28:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/123/</guid>
+      <description>在前两天中午，我拿到了一台thinkpad c13 yoga，对于这台机的介绍这里不再重复，下面直接进入正题。 当我像往常那样拔下电池并进入开发者模式</description>
+    </item>
+    
+  </channel>
+</rss>

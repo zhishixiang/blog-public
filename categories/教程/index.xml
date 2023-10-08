@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>教程 on 西行妖</title>
+    <link>https://my.toho.red/categories/%E6%95%99%E7%A8%8B/</link>
+    <description>Recent content in 教程 on 西行妖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Aug 2023 12:05:14 +0800</lastBuildDate><atom:link href="https://my.toho.red/categories/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>谷歌域名即将被收购，如何薅到最后一波羊毛</title>
+      <link>https://my.toho.red/posts/how-to-buy-cheap-domain-from-google/</link>
+      <pubDate>Wed, 30 Aug 2023 12:05:14 +0800</pubDate>
+      
+      <guid>https://my.toho.red/posts/how-to-buy-cheap-domain-from-google/</guid>
+      <description>虽然对谷歌项目火葬场的名声早有耳闻，但却确没想到谷歌能在宣布新tld后不久宣布卖掉谷歌域名，只能说这是我绝对想不到的迷惑操作。距离谷歌发送邮</description>
+    </item>
+    
+    <item>
+      <title>Chromebook刷bios解除企业锁折腾记录</title>
+      <link>https://my.toho.red/posts/123/</link>
+      <pubDate>Tue, 06 Jun 2023 22:28:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/123/</guid>
+      <description>在前两天中午，我拿到了一台thinkpad c13 yoga，对于这台机的介绍这里不再重复，下面直接进入正题。 当我像往常那样拔下电池并进入开发者模式</description>
+    </item>
+    
+    <item>
+      <title>Vue3的computed计算属性传参</title>
+      <link>https://my.toho.red/posts/121/</link>
+      <pubDate>Wed, 12 Apr 2023 15:15:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/121/</guid>
+      <description>在使用计算属性时，有时需要向其中传参（例如将时间戳转换为时间），以下是一个比较简单的实现方法； {{ auditTime(searchResult.time) }} export default { computed: { auditTime:() =&amp;gt; (item) =&amp;gt; { //计算属性传递参数</description>
+    </item>
+    
+    <item>
+      <title>在Docker容器中运行服务</title>
+      <link>https://my.toho.red/posts/120/</link>
+      <pubDate>Fri, 24 Mar 2023 20:39:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/120/</guid>
+      <description>最近正在写的某个容器升级了一下架构，在启动容器时需要同时运行一个frps服务。根据我的习惯，一开始打算使用systemctl添加frps服务</description>
+    </item>
+    
+    <item>
+      <title>Potplayer&#43;SVP4插帧看番体验——24帧日漫轻松提升至60帧</title>
+      <link>https://my.toho.red/posts/96/</link>
+      <pubDate>Mon, 01 Aug 2022 20:05:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/96/</guid>
+      <description>最近对电子游戏突然没有了兴趣，反而迷上了看动漫——说来也挺正常，毕竟已经很久没有看过动漫了或许这就是电子阳痿。但在看动漫时，习惯了新电脑12</description>
+    </item>
+    
+    <item>
+      <title>AList搭建教程&amp;amp;网盘迁移至AList公告</title>
+      <link>https://my.toho.red/posts/90/</link>
+      <pubDate>Sat, 30 Jul 2022 11:28:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/90/</guid>
+      <description>##前言 好久没看搭建的oneindex了，正当想传点资源上去时，发现oneindex又挂了，主页一片空白。不过oneindex本身的缺点确实</description>
+    </item>
+    
+    <item>
+      <title>Autowhitelist介绍&amp;amp;我对mc白名单的研究</title>
+      <link>https://my.toho.red/posts/89/</link>
+      <pubDate>Tue, 26 Jul 2022 12:14:13 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/89/</guid>
+      <description>本文开始之前，先来说说autowhitelist这个项目：这是一个自动添加mc服务器白名单的程序，腐竹可以出题让玩家作答，玩家达到分数线后将</description>
+    </item>
+    
+    <item>
+      <title>利用蹩脚的 js 知识写了一个统计真实访客数量的脚本</title>
+      <link>https://my.toho.red/posts/80/</link>
+      <pubDate>Mon, 13 Jun 2022 16:19:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/80/</guid>
+      <description>趁着高考结束后闲着无事，入门了网页和小程序开发，刚学完 ajax 没多久，打算写一个小项目作为总结，于是便有了此项目。 本项目基于前端请求后端、后端记录</description>
+    </item>
+    
+    <item>
+      <title>轻松搭建gitlab私人代码库</title>
+      <link>https://my.toho.red/posts/68/</link>
+      <pubDate>Sun, 29 May 2022 18:11:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/68/</guid>
+      <description>#前言 在几年前刚接触github的时候，我便得知了gitlab的存在。在我看来，gitlab的页面设计更合我口味，但由于图省事以及穷的原因影</description>
+    </item>
+    
+    <item>
+      <title>heroku使用教程——真正的零成本搭建PHP动态博客</title>
+      <link>https://my.toho.red/posts/61/</link>
+      <pubDate>Thu, 12 May 2022 13:58:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/61/</guid>
+      <description>#前言 众所周知，大部分的静态网页托管服务(例如vercel、netlify)都是完全免费的，我的mc官网正是托管在vercel上的。但是有没</description>
+    </item>
+    
+    <item>
+      <title>记一次我与某网课系统的对抗</title>
+      <link>https://my.toho.red/posts/32/</link>
+      <pubDate>Sun, 06 Mar 2022 13:03:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/32/</guid>
+      <description>今天早上走亲戚的时候，我去亲戚家拜访，家里人打算与亲戚一起出去玩，但我想宅在这边，不想出门。于是亲戚便给了我一个任务：让我帮忙刷网课做任务。</description>
+    </item>
+    
+    <item>
+      <title>关于我新搭建的oneindex网盘（附教程）</title>
+      <link>https://my.toho.red/posts/9/</link>
+      <pubDate>Wed, 24 Nov 2021 11:29:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/9/</guid>
+      <description>我最近有幸参与了某个项目，项目中需要用到下载节点。刚开始时我脑子里第一个想到的是对象存储+cdn，但联想到oss高额的流量费以及我以前cdn</description>
+    </item>
+    
+    <item>
+      <title>[纯教程]如何搭建QQ微信转发服务器</title>
+      <link>https://my.toho.red/posts/8/</link>
+      <pubDate>Thu, 11 Nov 2021 11:29:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/8/</guid>
+      <description>##更新日志 2022.3.5:配置文件外置，现在已不需要python环境运行 2022.4.3:更换FCM API 2022.4.5:重写架构 ##声明</description>
+    </item>
+    
+    <item>
+      <title>关于我新买的LG V50&amp;amp;如何搭建QQ第三方推送服务器</title>
+      <link>https://my.toho.red/posts/7/</link>
+      <pubDate>Wed, 10 Nov 2021 11:25:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/7/</guid>
+      <description>挺久没有更新（咕）了，先和关注本站的（不存在的）网友们问个好，好久不见，让你们久等了。 关于换机的原因 在大概上个月的时候，我刚从学校取回手机，</description>
+    </item>
+    
+    <item>
+      <title>如何用阿里云服务器开一个我的世界皮肤站 </title>
+      <link>https://my.toho.red/posts/4/</link>
+      <pubDate>Thu, 14 May 2020 11:13:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/4/</guid>
+      <description>2021/12/19更新：阿里云学生机促销没了，可以看看ucloud的新用户优惠，一年最低50块钱（我没有收对面推广费） 链接：www.ucl</description>
+    </item>
+    
+  </channel>
+</rss>

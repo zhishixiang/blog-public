@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>笔记 on 西行妖</title>
+    <link>https://my.toho.red/categories/%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in 笔记 on 西行妖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Jul 2023 11:03:00 +0000</lastBuildDate><atom:link href="https://my.toho.red/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>java的某些常用特性</title>
+      <link>https://my.toho.red/posts/java-learning-note/</link>
+      <pubDate>Tue, 11 Jul 2023 11:03:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/java-learning-note/</guid>
+      <description>1.equals()与==的区别 equals()比较的是其中包含的值，而==比较的是对象，也就是两个内容相同字符串变量如果用==进行比较是会</description>
+    </item>
+    
+    <item>
+      <title>python3将对象作为线程使用</title>
+      <link>https://my.toho.red/posts/131/</link>
+      <pubDate>Mon, 10 Jul 2023 11:15:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/131/</guid>
+      <description>新建一个对象： class test(Threading.thread): # 当运行start()方法时默认运行此方法 def run(): print(helloworld) 将对象作为新线程启动： test_thread = test() test_thread.start() test_thread.join() ... 这样做的好处：在某些在某一个线程需要调用</description>
+    </item>
+    
+    <item>
+      <title>Vue3的computed计算属性传参</title>
+      <link>https://my.toho.red/posts/121/</link>
+      <pubDate>Wed, 12 Apr 2023 15:15:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/121/</guid>
+      <description>在使用计算属性时，有时需要向其中传参（例如将时间戳转换为时间），以下是一个比较简单的实现方法； {{ auditTime(searchResult.time) }} export default { computed: { auditTime:() =&amp;gt; (item) =&amp;gt; { //计算属性传递参数</description>
+    </item>
+    
+    <item>
+      <title>在Docker容器中运行服务</title>
+      <link>https://my.toho.red/posts/120/</link>
+      <pubDate>Fri, 24 Mar 2023 20:39:00 +0000</pubDate>
+      
+      <guid>https://my.toho.red/posts/120/</guid>
+      <description>最近正在写的某个容器升级了一下架构，在启动容器时需要同时运行一个frps服务。根据我的习惯，一开始打算使用systemctl添加frps服务</description>
+    </item>
+    
+  </channel>
+</rss>
