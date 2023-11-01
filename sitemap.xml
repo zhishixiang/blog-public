@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://my.toho.red/categories/</loc>
-    <lastmod>2023-10-08T20:53:47+08:00</lastmod>
+    <loc>https://my.toho.red/posts/my-cs61b-summary/</loc>
+    <lastmod>2023-11-01T14:55:30+08:00</lastmod>
   </url><url>
     <loc>https://my.toho.red/posts/</loc>
+    <lastmod>2023-11-01T14:55:30+08:00</lastmod>
+  </url><url>
+    <loc>https://my.toho.red/</loc>
+    <lastmod>2023-11-01T14:55:30+08:00</lastmod>
+  </url><url>
+    <loc>https://my.toho.red/categories/</loc>
     <lastmod>2023-10-08T20:53:47+08:00</lastmod>
   </url><url>
     <loc>https://my.toho.red/tags/</loc>
@@ -24,9 +30,6 @@
     <lastmod>2023-10-08T20:53:47+08:00</lastmod>
   </url><url>
     <loc>https://my.toho.red/tags/%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91/</loc>
-    <lastmod>2023-10-08T20:53:47+08:00</lastmod>
-  </url><url>
-    <loc>https://my.toho.red/</loc>
     <lastmod>2023-10-08T20:53:47+08:00</lastmod>
   </url><url>
     <loc>https://my.toho.red/tags/%E8%B8%A9%E5%9D%91/</loc>
